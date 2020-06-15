@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ASUS/Desktop/dataRest.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/accessing-data-rest/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=accessing-data-rest/src\/main\/java&lt;com.example.accessingdatarest{AccessingDataRestApplication.java[AccessingDataRestApplication" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/accessing-data-rest/pom.xml"/>
+        <javaElement handleIdentifier="=accessing-data-rest/src\/main\/java"/>
+        <folder path="/accessing-data-rest/src"/>
+        <file path="/accessing-data-rest/.classpath"/>
+        <javaElement handleIdentifier="=accessing-data-rest/src\/test\/java"/>
+        <javaElement handleIdentifier="=accessing-data-rest/src\/main\/resources"/>
+        <file path="/accessing-data-rest/mvnw.cmd"/>
+        <file path="/accessing-data-rest/HELP.md"/>
+        <file path="/accessing-data-rest/.gitignore"/>
+        <folder path="/accessing-data-rest/target"/>
+        <file path="/accessing-data-rest/.project"/>
+        <file path="/accessing-data-rest/mvnw"/>
+    </selectedElements>
+</jardesc>

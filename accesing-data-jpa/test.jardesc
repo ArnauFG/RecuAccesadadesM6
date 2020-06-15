@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ASUS/Desktop/dataJPA.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/accesing-data-jpa/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=accesing-data-jpa/src\/main\/java&lt;com.example.accesingdatajpa{AccesingDataJpaApplication.java[AccesingDataJpaApplication" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=accesing-data-jpa/src\/test\/java"/>
+        <file path="/accesing-data-jpa/HELP.md"/>
+        <file path="/accesing-data-jpa/.gitignore"/>
+        <file path="/accesing-data-jpa/.project"/>
+        <file path="/accesing-data-jpa/mvnw"/>
+        <folder path="/accesing-data-jpa/target"/>
+        <file path="/accesing-data-jpa/pom.xml"/>
+        <folder path="/accesing-data-jpa/src"/>
+        <javaElement handleIdentifier="=accesing-data-jpa/src\/main\/resources"/>
+        <file path="/accesing-data-jpa/test.jardesc"/>
+        <javaElement handleIdentifier="=accesing-data-jpa/src\/main\/java"/>
+        <file path="/accesing-data-jpa/mvnw.cmd"/>
+        <file path="/accesing-data-jpa/.classpath"/>
+    </selectedElements>
+</jardesc>

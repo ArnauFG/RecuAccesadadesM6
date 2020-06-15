@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ASUS/Desktop/RestSpring.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/demo/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=demo/src\/main\/java&lt;com.example.demo{PayrollApplication.java[PayrollApplication" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=demo/src\/main\/resources"/>
+        <javaElement handleIdentifier="=demo/src\/test\/java"/>
+        <file path="/demo/HELP.md"/>
+        <file path="/demo/.gitignore"/>
+        <folder path="/demo/target"/>
+        <file path="/demo/mvnw"/>
+        <file path="/demo/.project"/>
+        <file path="/demo/pom.xml"/>
+        <folder path="/demo/src"/>
+        <javaElement handleIdentifier="=demo/src\/main\/java"/>
+        <file path="/demo/.classpath"/>
+        <file path="/demo/mvnw.cmd"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ASUS/Desktop/servingWebContent.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/serving-web-content/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=serving-web-content/src\/main\/java&lt;com.example.servingwebcontent{ServingWebContentApplication.java[ServingWebContentApplication" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/serving-web-content/pom.xml"/>
+        <file path="/serving-web-content/mvnw.cmd"/>
+        <folder path="/serving-web-content/src"/>
+        <file path="/serving-web-content/.classpath"/>
+        <javaElement handleIdentifier="=serving-web-content/src\/main\/java"/>
+        <javaElement handleIdentifier="=serving-web-content/src\/test\/java"/>
+        <javaElement handleIdentifier="=serving-web-content/src\/main\/resources"/>
+        <file path="/serving-web-content/HELP.md"/>
+        <file path="/serving-web-content/.project"/>
+        <file path="/serving-web-content/mvnw"/>
+        <file path="/serving-web-content/.gitignore"/>
+        <folder path="/serving-web-content/target"/>
+    </selectedElements>
+</jardesc>
